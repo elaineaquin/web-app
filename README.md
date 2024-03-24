@@ -35,13 +35,21 @@ react-toastify: Manages user notifications like toast messages.
 # Server-Side Dependencies:
 
 express: Web framework for building Node.js applications.
+
 mongoose: Object Document Mapper (ODM) for interacting with MongoDB databases from Node.js.
+
 express-flash: Enables flash messages in Express applications.
+
 express-session: Manages user sessions in Express applications.
+
 passport: Authentication middleware for Express applications.
+
 passport-local: Provides basic local authentication strategies for Passport.
+
 passport-local-mongoose: Simplifies local authentication with Mongoose.
+
 body-parser: Parses incoming request bodies in Express applications.
+
 cors: Enables Cross-Origin Resource Sharing (CORS) for API requests.
 
 Now run the server.js:

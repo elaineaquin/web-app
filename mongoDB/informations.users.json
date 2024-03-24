@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "65fc2c7defc348cf6a1aaff1"
+  },
+  "name": "Patricia",
+  "username": "pat",
+  "email": "testOne@mail.com",
+  "password": "$2a$10$kvhQ4xLzpu/22pQn3oVKjeRS4ZNVSRKMDb7O3OPbGO02xVlV2Kt9m",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ff9b0b0c295381a1e5a040"
+  },
+  "name": "Elaine",
+  "username": "Elaine",
+  "email": "testTwo@mail.com",
+  "password": "$2a$10$vllfX1B7GORDFVI8W9tcoO/WGIsrQo81B8SLEkPICDVM3zQNFesJy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ff9b260c295381a1e5a042"
+  },
+  "name": "user3",
+  "username": "testUser3",
+  "email": "testThree@mail.com",
+  "password": "$2a$10$tUGUFbCHv4hQw2NvGSjK/uRbdM5Vp0WZWUdSdlMxI6lX3TPBBTiMe",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ff9b390c295381a1e5a044"
+  },
+  "name": "user4",
+  "username": "testUser4",
+  "email": "testFour@mail.com",
+  "password": "$2a$10$Ar8t7L394EL7K94Nq5PzBO37hdn8Yhj06CYe7IncAZTGId7EMRSSu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ff9b490c295381a1e5a046"
+  },
+  "name": "user5",
+  "username": "testUser5",
+  "email": "testFive@mail.com",
+  "password": "$2a$10$QOoBlI8cTHwJkQzRKiKDs.zRGa52W8GNtG.4kpLFV8wtCoy1msmAW",
+  "__v": 0
+}]

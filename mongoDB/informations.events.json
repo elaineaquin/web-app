@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "65fc2773efc348cf6a1aafee"
+  },
+  "title": "Reserved by Elaine",
+  "start": {
+    "$date": "2024-03-22T12:00:00.000Z"
+  },
+  "className": "reserved-event",
+  "lab": "St Miguel Laboratory",
+  "isAnonymous": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ff99f90c295381a1e5a034"
+  },
+  "title": "Reserved by pat",
+  "start": {
+    "$date": "2024-03-26T14:00:00.000Z"
+  },
+  "className": "reserved-event",
+  "lab": "St Joseph Laboratory",
+  "isAnonymous": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ff99ff0c295381a1e5a038"
+  },
+  "title": "Reserved by testUser3",
+  "start": {
+    "$date": "2024-03-28T20:00:00.000Z"
+  },
+  "className": "reserved-event",
+  "lab": "La Salle Hall Laboratory",
+  "isAnonymous": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ff9a0d0c295381a1e5a03a"
+  },
+  "title": "Reserved (Anonymous)",
+  "start": {
+    "$date": "2024-03-30T16:00:00.000Z"
+  },
+  "className": "reserved-event",
+  "lab": "St Joseph Laboratory",
+  "isAnonymous": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ff9a120c295381a1e5a03c"
+  },
+  "title": "Reserved by testUser4",
+  "start": {
+    "$date": "2024-04-01T19:00:00.000Z"
+  },
+  "className": "reserved-event",
+  "lab": "St Joseph Laboratory",
+  "isAnonymous": false,
+  "__v": 0
+}]

@@ -3,12 +3,12 @@ This project requires Node.js and npm (or yarn) to be installed on your system. 
 
 Clone the repository:
 ```
-git clone https://github.com/your-username/your-project-name.git
+git clone https://github.com/elaineaquin/web-app.git
 ```
 
 Navigate to the project directory:
 ```
-cd your-project-name
+cd web-app
 ```
 
 Install dependencies:
@@ -21,10 +21,15 @@ This will install all the necessary dependencies listed below:
 # Client-Side Dependencies:
 
 fullcalendar-reactwrapper: Integrates FullCalendar library into React projects.
+
 react-flatpickr: Provides a sleek date/time picker component for React.
+
 react-router-dom: Enables routing capabilities for React applications.
+
 react-bootstrap: Provides Bootstrap UI components for React.
+
 axios: HTTP client for making API requests from React applications.
+
 react-toastify: Manages user notifications like toast messages.
 
 # Server-Side Dependencies:
